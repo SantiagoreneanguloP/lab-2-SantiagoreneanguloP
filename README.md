@@ -3,9 +3,9 @@
 
 ## 👤 Información del alumno
 
-- Nombre:
-- Matrícula:
-- Fecha:
+- Nombre: Santiago Rene Angulo Perez 
+- Matrícula: S25018116
+- Fecha: 26/10/2025
 
 ## 🎯 Objetivos
 
